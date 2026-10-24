@@ -2,9 +2,9 @@
 
 **Nombre de la misión:** Rescate del repositorio
 
-**ESTADO DE LA MISIÓN: ATERRIZAJE LISTO POR ORBITA**
+**ESTADO DE LA MISIÓN: LANZAMIENTO Y ATERRIZAJE EXITOSOS**
 
-**Mensaje a la tripulación:** Aterrizaje confirmado, Orbita les desea larga vida y prosperidad v.
+**Mensaje a la tripulación:** Despegue confirmado y aterrizaje asegurado, Aurora y Órbita reportan misión cumplida, larga vida y prosperidad S.T.A.R.S.
 
 ## Decisiones de los equipos
 
