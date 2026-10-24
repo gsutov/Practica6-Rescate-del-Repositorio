@@ -11,9 +11,9 @@
 6. Pide una revisión a Órbita; responde y corrige al menos un comentario.
 
 ## Plan de lanzamiento
-- Paso 1: pendiente.
-- Paso 2: pendiente.
-- Paso 3: pendiente.
+- Paso 1: Carga de combustible 
+- Paso 2: Confirmar que los sistemas respondan e inicio de cuenta regresiva
+- Paso 3: Ignición
 
 ## Pregunta para el otro equipo
 ¿Qué podría salir mal durante el lanzamiento?
