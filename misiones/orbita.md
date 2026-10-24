@@ -11,9 +11,9 @@
 6. Pide una revisión a Aurora; responde y corrige al menos un comentario.
 
 ## Plan de aterrizaje
-- Paso 1: pendiente.
-- Paso 2: pendiente.
-- Paso 3: pendiente.
+- Paso 1: Asegurar las coordenadas de aterrizaje e ir midiendo la velocidad.
+- Paso 2: Ver coordenadas de aproximación para empezar a reducir la velocidad de aterrizaje.
+- Paso 3: Estabilizar el aterrizaje firme y reportar a Aurora la altitud final, velocidad de descenso y estado de los sistemas..
 
 ## Pregunta para el otro equipo
 ¿Qué podría salir mal durante el aterrizaje?
